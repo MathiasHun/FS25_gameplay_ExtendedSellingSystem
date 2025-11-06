@@ -14,9 +14,9 @@
 
 If you run into problems, please help improve the mod by following these steps:
 
-1. State your Farming Simulator 25 game version (e.g., FS25: 1.8.0.1).
+1. State your Farming Simulator 25 game version (e.g., FS25: 1.14.1.0).
 
-2. Include the mod version number you are using (e.g., ESS: v1.0.0.1).
+2. Include the mod version number you are using (e.g., ESS: v1.0.1.1).
 
 3. Restart your savegame, and only enable this mod (and any other absolutely essential mods) when reproducing the issue.
 
@@ -41,12 +41,16 @@ Thanks for helping improve the mod!🚜
 </br>
 <p dir="auto"><strong><a href="https://farmsim.bltfm.hu/infusions/bltfmhu_downloads_center/downloads.php?cat_id=4&dlc_id=6">Download the latest developer version</a></strong> (the file FS25_gameplay_ExtendedSellingSystem.zip).</p>
 
+## Changelog 1.0.1.1:
+- Compatibility improved with Real Vehicle Breakdowns v0.9.5.1 or higher
+- DescVersion increased
+
 ## Changelog 1.0.1.0:
-- Compatibility fixed with Real Vehicle Breakdowns v0.9.2.5 or higher
+- Compatibility improved with Real Vehicle Breakdowns v0.9.2.5 or higher
 - Only 5 vehicles or tools are updated per refresh
 - Maximum 3 notifications appear if profit exceeds 20%
 - DescVersion increased
 
 ## Changelog 1.0.0.1:
-- <a href="https://github.com/MathiasHun/FS25_gameplay_ExtendedSellingSystem/issues/1">Github issues#1</a> - Compatibility with the Terrafarm v0.9.0.5 mod fixed
+- <a href="https://github.com/MathiasHun/FS25_gameplay_ExtendedSellingSystem/issues/1">Github issues#1</a> - Compatibility with the Terrafarm v0.9.0.5 mod improved
 - DescVersion increased
